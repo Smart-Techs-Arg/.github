@@ -138,7 +138,7 @@ Medimos, mejoramos y acompañamos el crecimiento.
 
 ## 📫 Contacto
 
-📧 **[smarttechs.arg@gmail.com](mailto:smarttechs.arg@gmail.com)**
+📧 **[smartechs.arg@gmail.com](mailto:smartechs.arg@gmail.com)**
 
 📱 **+54 379 414-1551**
 
