@@ -4,8 +4,8 @@
 
 **Marketing Digital • Diseño Gráfico • UX/UI • Desarrollo Web**
 
-[![Instagram](https://img.shields.io/badge/Instagram-@smarttechs.ar-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/smarttechs.ar)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:smarttechs.ar@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@smartechs.ar-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/smartechs.ar)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:smartechs.ar@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-3794141551-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/543794141551)
 
 ---
